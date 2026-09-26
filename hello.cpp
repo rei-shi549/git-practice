@@ -8,5 +8,6 @@ int main()
 	std::cout << "Repetition is Important!" << std::endl;
 	std::cout << "Feature branch!" << std::endl;
 	std::cout << "Feature output!" << std::endl;
+	std::cout << "pulled from GitHub!" << std::endl;
 	return 0;
 }
